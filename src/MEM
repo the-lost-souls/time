@@ -1,0 +1,15 @@
+Canvas          320*2*200   131072
+Meta.bin                    135168
+snakes.bin                  170000
+map1.gif        256*2*256   131072
+map2.gif                    131072
+map3.gif                    131072
+bumpmap                     65536
+colormap                    131072
+straa5.xm                   500000
+tls.bin, backg.bin          300000
+
+flares...       10*64*64*2  81920
+background     320*2*200*4  524288
+
+                        = 2.3 megz

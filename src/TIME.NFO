@@ -1,0 +1,126 @@
+Cyberfish 30.10.1996
+                ------------------- "time" -------------------
+
+                                a production by
+                              The Lost Souls 1996
+
+                       Released for the Tonstad Party '96
+
+Featuring...
+   Adam Seychell    - DOS32 v3.3
+   Alexander Boczar - Noise Music System
+   Scitech Software - UNIVBE
+
+
+
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+³    DISCLAIMER    ³
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+    You run this program at your own risk, and we don't take any
+responsability for any loss or damage of data/equipment caused by this
+program. (If this was about a car, I would never have tried it...)
+Else you can do with it whatever you want.
+
+
+
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+³   REQUIREMENTS   ³
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+- Preferably pentium
+- 2.5 mb of free memory
+- VESA 2.0 support
+
+    This demo is tested with EMM386/QEMM75 and worked fine (on my computer
+that is). It also happens to run from WIN95, but don't ask me why. The player
+autodetects your soundcard, but be sure the ULTRASND/BLASTER variable's are
+set correctly.
+    This demo requires VESA 2.0 support. This can be achieved by running
+Scitech's UNIVBE before the demo. There may be problems even if you run
+UNIVBE, because VESA 2.0 doesn't have hardware support for low-res truecolor
+modes (Why did they remove that anyway? It was there on VESA 1.2?!? ) I'll
+fix this to our next production. Promise.
+    There is no testing if UNIVBE is present, only if there is VESA 2.0
+support, and if 320x200x64k is available. So theoretically.... if you have
+a graphics card that supports VESA 2.0 _AND_ 320x200x64k hardware, you don't
+need UNIVBE.
+
+Download UNIVBE from Scitech's homepage at...
+    www.scitechsoft.com
+
+
+
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+³ CODERS COMMENT...³
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+    The player is a PreBeta version and there may be some bugs. It works on
+both my SB16 and my brother's GUSMAX, but else I don't know. The ugly
+non-smooth moving objects are a result of my code doesn't like NMS's timer
+and vice-versa. The whole demo runs in 320x200 truecolor mode, and the
+vector's are a bit slower than they would have been in 8-bit mode. Generally,
+there is a lot of slow code in here, as much of it was mixed together the last
+week before the party, and there was no time for optimizing. Some things in
+the demo isn't time-related, i.e. fading, crossfading and the bumpmap at
+the end.
+    The demo is not very long, but hey, it's not bad to produce 2.5 minutes
+of demo with 3-4 effects?!? :)
+
+BTW; A great thanks to the organizers who provided large amounts of goodwill
+for poor little me. After the last party I complained about them not having
+their own computer to show the demos on. This time they had a great computer,
+but our demo wouldn't run on it. So they let me use my own. Great thanks!
+I promise to come up with some better code next time! :) Also thanx to
+TiLT/Medieval Future who lent us his 17" screen.
+
+Hihi... I changed the filename from time.exe to time_.exe. Calling it
+time.exe would be rather annoying, or what? :) (Just try it and see...)
+
+
+
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+³ DETAILED CREDITS ³
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+Rex Rawhead :
+   * small, annoying light-thingys
+   * backgrounds and environment-maps
+   * "time"-logo
+   * credits-picture
+
+Kezoomer :
+   * music
+   * bumpmap, colormap
+
+Cyberfish
+   * code
+   * objects
+
+
+
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+³   GREETINGS...   ³
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+Cyberfish greets...
+   Logical (all members. Pikab”! :)
+   Allanon/depth
+   Paithan/depth
+   White Spirit/Infernal
+   Ghoul/Xenon
+   Mike X/Xenon
+   Axon/Xenon
+
+If you want, you can send me an email through Kezoomer's address. I don't
+have my own account.
+
+
+Kezoomer greets...
+
+Rawhead greets...
+   Sorry. Rawhead have no friends at all. :)
+
+
+
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+³      CALL....    ³
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+Sorcerer BBS
+The Lost Souls World HQ
++47 72 87 28 74
